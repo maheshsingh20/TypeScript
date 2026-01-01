@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "name": "John Doe",
+    "age": 30,
+    "email": "singhmahesh2924@gmail.com",
+    "address": "123 Main St, Cityville",
+    "phone": 1234567890
+  },
+  {
+    "id": 2,
+    "name": "Jane Smith",
+    "age": 25,
+    "email": "mahesh.singh@lpu.in",
+    "address": "456 Oak St, Townsville",
+    "phone": 9876543210
+  }
+]
